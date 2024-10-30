@@ -1,4 +1,4 @@
-- 👋 Hi, I’m asmazahoor02
+- 👋 Hi, I’m asmazahoor
 - 👀 I’m interested in Data Scienec, and Artficial Intelligence
 - 🌱 I’m currently learning Data Scienec from Data Seekho DSMP program
 - 💞️ I’m looking to collaborate on Projects related to real life problem
